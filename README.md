@@ -2,7 +2,7 @@
 
 **Software Engineering student | Developer in progress | Problem solver**
 
-My journey started with one question: *"How does Google know all this stuff?"* 🤔
+My journey started with one question: *"How does Google know all this stuff?"* 🤔<br>
 Before I knew about frontend, backend, or databases, I was curious about the technology behind the search bar. That curiosity led me to Software Engineering, where I'm now building, learning, and turning ideas into code.
 
 When I'm not coding, I'm probably arguing with bugs, celebrating tiny victories, and wondering why the code finally works after I changed one random thing. 😄
@@ -12,9 +12,9 @@ When I'm not coding, I'm probably arguing with bugs, celebrating tiny victories,
 
 ## What I'm Currently Working On
 
-Improving my skills in **JavaScript, React, Node.js,and DevOps**
-Building a **Climate Risk Prediction System for Smallholder Farmers**
-Developing web applications and exploring new project ideas
+Improving my skills in **JavaScript, React, Node.js,and DevOps**<br>
+Building a **Climate Risk Prediction System for Smallholder Farmers**<br>
+Developing web applications and exploring new project ideas<br>
 Learning **UI/UX Design with Figma** to create better user experiences
 
 ---
