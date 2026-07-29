@@ -2,10 +2,10 @@
 
 **Software Engineering student | Developer in progress | Problem solver**
 
-My journey started with one question: *"How does Google know all this stuff?"* 🤔<br>
+My journey started with one question: *"How does Google know all this stuff?"* <br>
 Before I knew about frontend, backend, or databases, I was curious about the technology behind the search bar. That curiosity led me to Software Engineering, where I'm now building, learning, and turning ideas into code.
 
-When I'm not coding, I'm probably arguing with bugs, celebrating tiny victories, and wondering why the code finally works after I changed one random thing. 😄
+When I'm not coding, I'm probably arguing with bugs, celebrating tiny victories, and wondering why the code finally works after I changed one random thing. 
 
 
 ---
