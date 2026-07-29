@@ -12,10 +12,10 @@ When I'm not coding, I'm probably arguing with bugs, celebrating tiny victories,
 
 ## What I'm Currently Working On
 
-Improving my skills in **JavaScript, React, Node.js,and DevOps**<br>
-Building a **Climate Risk Prediction System for Smallholder Farmers**<br>
-Developing web applications and exploring new project ideas<br>
-Learning **UI/UX Design with Figma** to create better user experiences
+* Improving my skills in **JavaScript, React, Node.js,and DevOps**<br>
+* Building a **Climate Risk Prediction System for Smallholder Farmers**<br>
+* Developing web applications and exploring new project ideas<br>
+* Learning **UI/UX Design with Figma** to create better user experiences
 
 ---
 
