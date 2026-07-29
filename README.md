@@ -61,35 +61,6 @@ Some projects may start as simple experiments, but every repository represents s
 
 ---
 
-## Featured Projects
-
-### Music Player App
-
-A capstone project focused on building an interactive application and improving my software development skills.
-
-### Climate Risk Prediction System
-
-An ongoing project exploring how technology can help smallholder farmers understand and prepare for climate-related risks.
-
-### Smart Irrigation System
-
-A school project exploring the integration of technology and machine learning concepts to improve irrigation efficiency.
-
----
-
-## Learning Journey
-
-Currently learning and improving:
-
-* JavaScript fundamentals and advanced concepts
-* Frontend development with React
-* Backend development with Node.js
-* DevOps practices
-* UI/UX principles
-* Building better software solutions
-
----
-
 ## Let's Connect!
 
 I'm always interested in learning, collaborating, and connecting with people passionate about technology.
