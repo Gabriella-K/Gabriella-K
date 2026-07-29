@@ -94,7 +94,7 @@ Currently learning and improving:
 
 I'm always interested in learning, collaborating, and connecting with people passionate about technology.
 
-Email: [your-email@example.com](gabriellaucyeye@gmail.com)
+Email: [gabriellaucyeye@gmail.com](gabriellaucyeye@gmail.com)
 GitHub: you're already here!
 
 ---
